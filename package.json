@@ -1,0 +1,17 @@
+{
+  "name": "patika_react_1",
+  "version": "1.0.0",
+  "description": "Patika React Ödev 1",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+    
+  }
+}
+
